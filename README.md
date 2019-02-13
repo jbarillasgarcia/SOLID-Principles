@@ -1,4 +1,4 @@
-# SOLID-Principles
+# SOLID Principles
 SOLID principles problems review with samples and solutions.
 
 ## Covered Principles
