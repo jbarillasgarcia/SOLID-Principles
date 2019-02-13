@@ -22,5 +22,5 @@ SOLID principles problems review with samples and solutions.
 - Animals problem
 - Animals solved
 ### Dependency Inversion Principle
-- <Pending> problem
-- <Pending> solved
+- Pending problem
+- Pending solution
