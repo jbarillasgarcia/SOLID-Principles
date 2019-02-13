@@ -1,6 +1,6 @@
 package gt.edu.umg.ingenieria.sistemas.is.solid.openclosed.solution;
 
-public class SaluteApp {
+public class OpenClosedApp {
     
     public static void main(String[] args) {        
         System.out.println("Hello in Spanish is said " + Translator.salute(new SpanishSalute()));

@@ -1,6 +1,6 @@
 package gt.edu.umg.ingenieria.sistemas.is.solid.singleresponsibility.solution;
 
-public class CalculatorApp {
+public class SingleResponsibilityApp {
 
     public static void main(String[] args) {
         Calculator calc = new Calculator();

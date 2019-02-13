@@ -1,6 +1,6 @@
 package gt.edu.umg.ingenieria.sistemas.is.solid.liskovsubstitution.solution;
 
-public class AnimalsApp {
+public class LiskovSubstitutionApp {
 
     public static void main(String[] args) throws Exception {
         ZooKeeper.makeAnimalMoveForward(new Dog());

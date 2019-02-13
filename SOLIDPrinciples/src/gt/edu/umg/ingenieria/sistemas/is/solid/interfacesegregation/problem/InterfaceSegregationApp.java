@@ -1,6 +1,6 @@
 package gt.edu.umg.ingenieria.sistemas.is.solid.interfacesegregation.problem;
 
-public class AnimalsApp {
+public class InterfaceSegregationApp {
     
     public static void main(String[] args) {
         // Walk
