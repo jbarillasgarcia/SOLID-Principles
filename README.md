@@ -3,6 +3,7 @@ SOLID principles problems review with samples and solutions.
 
 ## Covered Principles
 - **S**ingle Responsibility Principle
+A class should have only a single responsibility
 - **O**pen/Closed Principle
 - **L**iskov Substitution Principle
 - **I**nterface Segregation Principle
