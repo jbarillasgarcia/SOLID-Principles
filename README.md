@@ -11,16 +11,16 @@ SOLID principles problems review with samples and solutions.
 ## Problem and Solution Samples
 ### Single Responsibility Principle
 - Calculator problem
-- Calculator solved
+- Calculator solution
 ### Open/Closed Principle
 - Salute/Translator problem
-- Salute/Translator solved
+- Salute/Translator solution
 ### Liskov Substitution Principle
 - Animals problem
-- Animals solved
+- Animals solution
 ### Interface Segregation Principle
 - Animals problem
-- Animals solved
+- Animals solution
 ### Dependency Inversion Principle
 - Pending problem
 - Pending solution
