@@ -1,5 +1,5 @@
 # SOLID-Principles
-SOLID principles samples
+SOLID principles problems review with samples and solutions.
 
 ## Covered Principles
 - **S**ingle Responsibility Principle
