@@ -20,7 +20,7 @@ Many client-specific interfaces are better than one general-purpose interface.
 ### Dependency Inversion Principle
 Depend on abstractions, not on concretions.
 
-## Problem and Solution Samples
+## Samples
 ### Single Responsibility Principle
 - Calculator problem
 - Calculator solution
