@@ -12,3 +12,15 @@ SOLID principles samples
 ### Single Responsibility Principle
 - Calculator problem
 - Calculator solved
+### Open/Closed Principle
+- Salute/Translator problem
+- Salute/Translator solved
+### Liskov Substitution Principle
+- Animals problem
+- Animals solved
+### Interface Segregation Principle
+- Animals problem
+- Animals solved
+### Dependency Inversion Principle
+- <Pending> problem
+- <Pending> solved
