@@ -8,17 +8,17 @@ public class Animal implements AnimalActions {
     }   
     
     @Override
-    public void walk() {
+    public void walk() throws Exception {
         System.out.println("I am walking!!!");
     }
 
     @Override
-    public void swim() {
+    public void swim() throws Exception {
         System.out.println("I am swimming!!!");
     }
 
     @Override
-    public void fly() {
+    public void fly() throws Exception {
         System.out.println("I am flying!!!");
     }
     

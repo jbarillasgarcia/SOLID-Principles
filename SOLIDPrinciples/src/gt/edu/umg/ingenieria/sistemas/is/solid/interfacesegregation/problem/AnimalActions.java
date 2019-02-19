@@ -4,10 +4,10 @@ public interface AnimalActions {
     
     public void breathe();
 
-    public void walk();
+    public void walk() throws Exception;
     
-    public void swim();
+    public void swim() throws Exception;
     
-    public void fly();
+    public void fly() throws Exception;
     
 }

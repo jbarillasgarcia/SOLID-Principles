@@ -2,7 +2,7 @@ package gt.edu.umg.ingenieria.sistemas.is.solid.interfacesegregation.problem;
 
 public class InterfaceSegregationApp {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         // Walk
         ZooKeeper.makeAnimalWalk(new Dog());
         ZooKeeper.makeAnimalWalk(new Fish());
