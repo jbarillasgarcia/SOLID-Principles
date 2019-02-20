@@ -36,5 +36,5 @@ Depend on abstractions, not on concretions.
 - Animals problem
 - Animals solution
 ### Dependency Inversion Principle
-- Pending problem
-- Pending solution
+- Animals problem
+- Animals solution
