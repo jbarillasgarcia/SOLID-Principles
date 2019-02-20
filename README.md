@@ -1,5 +1,5 @@
 # SOLID Principles
-SOLID principles review with samples in Java language.
+SOLID principles with samples in Java language.
 
 ## Covered Principles
 - **S**ingle Responsibility Principle
