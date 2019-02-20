@@ -8,8 +8,15 @@ public class DependencyInversionApp {
     public static void main(String[] args) {
         List<Move> animals = new ArrayList<>();
         
-        animals.add(new Dog());
-        animals.add(new Rabbit());
+        Dog fido = new Dog("Fido");
+        Dog firulais = new Dog("Firulais");
+        Dog toto = new Dog("Toto");
+        Rabbit bugsBunny = new Rabbit("Bugs Bunny");
+        
+        animals.add(fido);
+        animals.add(firulais);
+        animals.add(toto);
+        animals.add(bugsBunny);
         
         ZooKeeper zooKeeper = new ZooKeeper(animals);
         
