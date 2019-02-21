@@ -4,14 +4,12 @@ public class Snake extends AnimalWithoutFeet {
     
     @Override
     public void moveForward() {
-        System.out.print("I am a snake. ");
-        super.moveForward();
+        System.out.println("I am a snake and I can move forward using my body.");
     }
     
     @Override
     public void moveBackward() {
-        System.out.print("I am a snake. ");
-        super.moveBackward();
+        System.out.println("I am a snake and I can move backward using my body.");
     }
     
 }

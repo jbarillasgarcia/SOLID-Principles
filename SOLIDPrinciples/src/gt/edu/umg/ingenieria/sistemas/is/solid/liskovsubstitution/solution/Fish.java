@@ -4,14 +4,12 @@ public class Fish extends AnimalWithoutFeet {
     
     @Override
     public void moveForward() {
-        System.out.print("I am a fish. ");
-        super.moveForward();
+        System.out.println("I am a fish and I can move forward using my body.");
     }
     
     @Override
     public void moveBackward() {
-        System.out.print("I am a fish. ");
-        super.moveBackward();
+        System.out.println("I am a fish and I can move backward using my body.");
     }
     
 }

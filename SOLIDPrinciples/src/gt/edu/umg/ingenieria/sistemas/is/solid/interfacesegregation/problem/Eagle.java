@@ -4,12 +4,12 @@ public class Eagle extends Animal {
     
     @Override
     public void walk() throws Exception {
-        System.out.println("I am an eagle and I cannot walk!!!");
+        throw new Exception("I am an eagle and I cannot walk!!!");
     }
     
     @Override
     public void swim() throws Exception {
-        System.out.println("I am an eagle and I cannot swim!!!");
+        throw new Exception("I am an eagle and I cannot swim!!!");
     }
     
     @Override

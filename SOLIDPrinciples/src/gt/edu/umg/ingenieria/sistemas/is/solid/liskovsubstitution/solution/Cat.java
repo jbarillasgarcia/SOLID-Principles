@@ -4,14 +4,12 @@ public class Cat extends AnimalWithFeet {
     
     @Override
     public void moveForward() {
-        System.out.print("I am a cat. ");
-        super.moveForward();
+        System.out.println("I am a cat and I can move forward using my feet.");        
     }
     
     @Override
     public void moveBackward() {
-        System.out.print("I am a cat. ");
-        super.moveBackward();
+        System.out.println("I am a cat and I can move backward using my feet.");
     }
     
 }

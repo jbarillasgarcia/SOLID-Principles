@@ -4,14 +4,12 @@ public class Dog extends AnimalWithFeet {
     
     @Override
     public void moveForward() {
-        System.out.print("I am a dog. ");
-        super.moveForward();
+        System.out.println("I am a dog and I can move forward using my feet.");
     }
     
     @Override
     public void moveBackward() {
-        System.out.print("I am a dog. ");
-        super.moveBackward();
+        System.out.println("I am a dog and I can move backward using my feet.");
     }
     
 }
